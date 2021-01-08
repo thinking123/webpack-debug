@@ -1,4 +1,6 @@
 /node_modules
+/debug/node_modules
+/debug/dist
 /test/js
 /test/browsertest/js
 /test/fixtures/temp-*
