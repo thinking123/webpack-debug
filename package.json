@@ -29,7 +29,9 @@
     "webpack-sources": "2.0.0-beta.8"
   },
   "devDependencies": {
+    "@babel/cli": "^7.12.10",
     "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.12.11",
     "@types/estree": "0.0.39",
     "@types/node": "^12.6.9",
     "@yarnpkg/lockfile": "^1.1.0",
