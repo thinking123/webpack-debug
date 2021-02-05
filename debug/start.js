@@ -12,6 +12,7 @@ compiler.run((err, stats) => {
 //***** debug/webpack.config.js *****
 const path = require("path");
 module.exports = {
+	watch: true,
 	context: __dirname,
 	mode: "development",
 	devtool: "source-map",
